@@ -1,3 +1,11 @@
+"""
+this is pointing a gun at my head to make a docstring, so I make docstring 
+"""
+
+from flask import Flask
+
+app = Flask(__name__)
+
 ''' Executing this function initiates the application of sentiment
     analysis to be executed over the Flask channel and deployed on
     localhost:5000.
